@@ -9,7 +9,7 @@
 }
 
 /* 
-            NAVIGATION BAR
+    NAVIGATION BAR
 */
 nav {
     width: 100%;
@@ -214,13 +214,11 @@ input {
     
 section {
         height: 600px;
-        padding: 20px;
-        /* Adjust the padding as needed */
+        padding: 20px;  
     }
 
     .section h2 {
         font-size: 6px;
-        /* Adjust the font size as needed */
     }
 
     .section img {
@@ -265,15 +263,16 @@ section {
 /* Mobile Styles */
 
 @media (max-width: 480px) {
+    #header{
+        font-size: 20px;
+    }
     section {
-            height: 5;
-            padding: 20px;
-            /* Adjust the padding as needed */
+        height: 5;
+        padding: 20px;
         }
     
-        .section h2 {
-            font-size: 15px;
-            /* Adjust the font size as needed */
+    .section h2 {
+        font-size: 15px;
         }
     
     .section img {
