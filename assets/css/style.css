@@ -1,85 +1,95 @@
-* { 
+* {
     margin: 0%;
     border: 0;
     font-family: 'Oswald', sans-serif;
 }
+
 /* 
             NAVIGATION BAR
 */
-nav { 
+nav {
     width: 100%;
     height: 100px;
     background-color: aliceblue;
-   
-}
-.img1 { 
-    width: 100px;
-    height:100px;
 
 }
-ul{
+
+.img1 {
+    width: 100px;
+    height: 100px;
+
+}
+
+ul {
     list-style-type: none;
     float: right;
-    margin-top: 35px;   
+    margin-top: 35px;
 }
-li  { 
-    
-    display: inline; 
+
+li {
+
+    display: inline;
     padding: 40px;
-    
-    
+
+
 }
-li a { 
+
+li a {
     text-decoration: none;
     color: black;
-    
+
 }
-li a:hover { 
+
+li a:hover {
     display: inline-block;
     position: relative;
     color: gray;
     text-decoration: underline;
-    
+
 }
-.main{
+
+.main {
     position: relative;
     text-align: center;
     color: white;
-  }
- .header  {
+}
+
+.header {
     text-decoration: none;
     position: absolute;
-    top:260px;
+    top: 260px;
     left: 50px;
     color: white;
     font-family: fantasy;
     font-size: 50px;
 }
 
-.img2 { 
+.img2 {
     width: 100%;
-    height:700px;
+    height: 700px;
     border-radius: 10px;
-   
+
 }
 
 
 /*Index HTML PAGE*/
-.section { 
+.section {
     background-color: #73C2FB;
     align-items: center;
     width: 100%;
     margin: auto;
-    text-align: center;  
+    text-align: center;
     height: 578px;
     color: white;
-    
+
 }
-.section img{ 
+
+.section img {
     float: right;
     width: 60%;
 }
-.section h2:hover { 
+
+.section h2:hover {
     color: black;
     transition: 0.8s;
 }
@@ -87,23 +97,31 @@ li a:hover {
 /* 
     FOOTER.
 */
-.footer { 
+.footer {
     height: 250px;
     border-radius: 10px;
     width: 100%;
     background-color: aliceblue;
 }
-.footer  h3  { 
+
+.footer h3 {
     text-align: center;
-    padding: 10px ;
+    padding: 10px;
     position: relative;
 }
+
 /*Social links and icons*/
-.social { 
+.social {
     text-align: center;
 }
 
-.social li { 
-    display: inline;
-    padding: 15px;   
+.social li {
+    display: inline-flex;
+    padding: 15px;
+}
+
+/*Explore page video settings*/
+#frame {
+    width: 100%;
+    height: 100vh;
 }
