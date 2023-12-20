@@ -198,7 +198,7 @@ input {
     margin: 30px 0;
     cursor: pointer;
 }
-
+/*Hover over button makes it change to a different color*/
 .submit:hover {
     background-color: blue;
 }
@@ -207,4 +207,102 @@ input {
     background-color: #73C2FB;
     width: 100%;
     height: 600px;
+}
+/* Tablet Styles */
+
+@media (max-width: 768px) {
+    
+section {
+        height: 600px;
+        padding: 20px;
+        /* Adjust the padding as needed */
+    }
+
+    .section h2 {
+        font-size: 6px;
+        /* Adjust the font size as needed */
+    }
+
+    .section img {
+        width: 100%;
+        height: auto;
+    }
+
+    .food3{
+        width: 100%;
+    }
+    
+    nav {
+        height: auto;
+    }
+
+    ul {
+        float: none;
+        margin-top: 0;
+        text-align: center;
+    }
+
+    li {
+        display: block;
+        padding: 10px;
+    }
+
+    .img2 {
+        height: auto;
+    }
+
+    .section img {
+        width: 100%;
+        float: none;
+    }
+
+    .fConainer2 {
+        width: 100%;
+        float: none;
+    }
+}
+
+/* Mobile Styles */
+
+@media (max-width: 480px) {
+    section {
+            height: 5;
+            padding: 20px;
+            /* Adjust the padding as needed */
+        }
+    
+        .section h2 {
+            font-size: 15px;
+            /* Adjust the font size as needed */
+        }
+    
+    .section img {
+            width: 100%;
+            height: auto;
+        }
+
+    .header {
+        top: 160px;
+        font-size: 40px;
+    }
+
+    .img2 {
+        height: auto;
+    }
+
+    .section img {
+        width: 100%;
+        float: none;
+    }
+
+    .fConainer2 {
+        width: 100%;
+        float: none;
+        height: auto;
+    }
+
+    .form {
+        width: 80%;
+        padding: 50px;
+    }
 }
