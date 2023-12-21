@@ -1,7 +1,7 @@
 # Explore Cobh
 
 Welcome to the Explore Cobh project! This is a website that introduces users to the beautiful town of Cobh, Co.Cork.
-![Alt Text](assets/Readme%20images/main.PNG)
+![Alt Text](assets/Readmeimages/main.PNG)
 
 
 
@@ -14,7 +14,7 @@ Explore Cobh is a web platform that showcases the charm and attractions of Cobh,
 ## Features
 
 - **Navigation:** Easily navigate through different sections of the website using the provided links in the navigation bar.
-  ![Alt Text](assets/Readme%20images/nav%20bar.PNG)
+  ![Alt Text](assets/Readmeimages/nav%20bar.PNG)
 
 
 - **Discover Cobh:** Learn about the town's history and attractions through engaging content and captivating images.
@@ -43,9 +43,9 @@ The website was ran throught the css and html validator and i had some issues on
 
 I also ran the code though lighthouse and i got an impressive result for the site.
 
-[Alt Text](assets/Readme%20images/lighthouse.PNG)
-[Alt Text](assets/Readme%20images/w3c.PNG)
-![Alt Text](assets/Readme%20images/Capture.PNG)
+[Alt Text](assets/Readmeimages/lighthouse.PNG)
+[Alt Text](assets/Readme20images/w3c.PNG)
+![Alt Text](assets/Readme20images/Capture.PNG)
 
 
 ## Deployment
