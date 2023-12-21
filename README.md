@@ -44,8 +44,8 @@ The website was ran throught the css and html validator and i had some issues on
 I also ran the code though lighthouse and i got an impressive result for the site.
 
 [Alt Text](assets/Readmeimages/lighthouse.PNG)
-[Alt Text](assets/Readme20images/w3c.PNG)
-![Alt Text](assets/Readme20images/Capture.PNG)
+[Alt Text](assets/Readmeimages/w3c.PNG)
+![Alt Text](assets/Readmeimages/Capture.PNG)
 
 
 ## Deployment
